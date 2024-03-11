@@ -1,0 +1,24 @@
+.welcome {
+    text-align: center; 
+    color: white;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+    text-shadow: 3px;
+  }
+  
+  .divbtn {
+    display: flex; 
+    justify-content: center; 
+    margin-top: 20px; 
+  }
+  
+  .btn {
+    margin: 0 10px;
+  }
+  
+body{
+    background-image: url(D:\React\BookStore\project-7\assets\pexels-pixabay-357514.jpg);
+    background-size:cover;
+    height: fit-content;
+    padding: 30px;
+}
